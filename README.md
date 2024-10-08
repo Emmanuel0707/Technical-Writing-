@@ -1,7 +1,7 @@
-# Technical-Writing-
-### This is basic repository for a beginner like me that wants to navigate and execute my expertise on technical documentation using GitHub.
-#### Fundamentals of Technical Writing
-#
+# Emmanuel Atienza 
+
+### I am Emmanuel Bueno Atienza, and you can call me Emman or Em. I am 24 years old, a technical writer, technical support and a degree holder with distinction. let me show my full credentials using these content.
+##### Table of Contents
 #
 #
 Grammar
