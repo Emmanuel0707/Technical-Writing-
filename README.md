@@ -14,7 +14,7 @@
 
 | **Educational background** | **Work experience** | **Updated Acheivements and Milestones** |
  --- | --- | ---
-| Concept | Use it to provide conceptual information, answering the question "What is this?" | text |
+| Concept |This repository is the pinnacle of describing Emmanuel's experirnce and what he could bring to the table. | Emmanuel started his carreer after his 3rd year on college. It is a freelance role but on the latter part become a fulltime role as a marketing associate, focusing on functions and user guides for the direct client before/after purchase of an appliances. Providing the marketing content and infographics/infomercial for the brands. Emmanuel contributed to the boost of sale for the retail store. Given the experince in marketing and content creation, the top 1 broadcatsing company on the country hired him as an associate/intern for a marketing departement of the artists. Providing the knowledge in marketing,  |
 | Task | Use it to provide instructional information, answering the question "How to do this?" | Text |
 | Reference | Use it to provide additional information, such as a table with reference values, or additional information | Text |
 # Infographics
