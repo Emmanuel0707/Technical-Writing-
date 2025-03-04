@@ -46,19 +46,19 @@ Email:
 - **[Other tools]**
 
 ### Content Management Systems
-- **WordPress**
-- **Joomla**
-- **Drupal**
+- **Jira**
+- **Confluence**
+- **Twilio**
 - **[Other CMS]**
 
 ## Projects
 
 ### Featured Projects
 
-- [**Project Name**](link-to-project)
-  - **Description:** Brief description of the project, what it does, and why you created it.
-  - **Role:** Your role in the project (e.g., Lead Technical Writer).
-  - **Highlights:** Key features or aspects of the documentation.
+- [**PERASYS**](link-to-project)
+  - **Description:**It is a comprehensive collaboration of BSFIs for an API gateway that will manages the PERA option for clients who wants to avail the product and services of PERA
+  - **Role:** Emman is the senior technical writer that help the completion of proper documentation for an approval of business heads and stake holders.
+  - **Highlights:** Business Requirement Docuemnts, System Requirements Document, System Design Document, Test Plan Document, Functional Reuqirements Docuemnt and API documentation.
   - **Status:** Current status of the project (e.g., Active, Completed, In Progress).
 
 - [**Project Name**](link-to-project)
